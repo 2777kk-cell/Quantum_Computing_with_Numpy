@@ -1,0 +1,60 @@
+background-color: white
+axis:
+  x-gap: 50
+  y-gap: 50
+  origin:
+   x-pad: 20
+   y-pad: 30
+
+wire:
+  stroke: black
+  stroke-width: 2
+
+single-gate:
+  width: 20
+  height: 20
+  label-font: 15
+  label-fill: white
+  stroke-width: 4
+  stroke: black
+  fill: darkblue
+
+two-point-gate:
+  anchor:
+    r: 2
+    fill: black
+    stroke: black
+    stroke-width: 2
+  target:
+    width: 20
+    height: 20
+    label-font: 15
+    label-fill: white
+    stroke-width: 4
+    stroke: black
+    fill: darkblue
+    font-width: bold
+
+
+cnot-gate:
+  src:
+    r: 2
+    fill: black
+    stroke: black
+    stroke-width: 2   
+  tgt:
+    r: 10
+    fill: darkblue
+    stroke: black
+    stroke-width: 2
+  text:
+    fill: white
+    font-size: 10
+    font-weight: bold
+
+  
+
+
+  
+
+
