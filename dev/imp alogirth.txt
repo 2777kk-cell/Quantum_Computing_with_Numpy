@@ -1,0 +1,14 @@
+ndim=16
+Algorithm to decompose a higher dimension Ket Vector into Individual basis vectors(of dim 2x1)
+
+1). Get the Dimension of the Ket Vector(column matrix) and store in ndim
+2). Initiate the iteration with  2
+3). Divide ndim of input Ket Vector(column matrix) with 2 and obtain quotient say q
+4). now compute nearest kronecker product of Ket Vector with q and 2 in format (q, 2) pair and store value in result
+4). if result is None, the change format to (2, q) 
+5). If result again is None in Step 5, possibly the state vector is entanlged. Move to Step 6
+6). 
+
+>>q is: 8
+
+
