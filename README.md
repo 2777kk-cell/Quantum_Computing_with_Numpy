@@ -3,6 +3,8 @@ A naive way of Simulating a Fake Quantum Computer(Note: This is NOT a Quantum Co
 
 # Quantum Computing with NumPy
 
+<pre>
+```text
 .
 ├── dev
 │   ├── custom_vector_processor.ipynb
@@ -20,6 +22,8 @@ A naive way of Simulating a Fake Quantum Computer(Note: This is NOT a Quantum Co
 ├── QDirac2.ipynb
 ├── swap_operation.ipynb
 └── Bell_State(2).ipynb
+```
+</pre>
 
 A lightweight, educational quantum computing simulator built entirely with **NumPy**. Explore foundational quantum circuits, states, and operations through intuitive Jupyter notebooks—without external quantum SDKs like Qiskit or Cirq.
 
