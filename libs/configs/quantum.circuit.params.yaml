@@ -1,0 +1,39 @@
+xgap: 70
+ygap: 70
+origin: 
+  - 50
+  - 50
+bgcolor: white
+wires:
+  stroke: black
+  stroke-width: 2
+  lable-fill: black
+
+box:
+  width: 25
+  height: 25
+  stoke: black
+  stroke-width: 2
+  fill: darkblue
+  label-font: bold
+
+cnot:
+  ctrl:
+    r: 2
+    fill: black
+    stroke: black
+    stroke-width: 2   
+  trgt:
+    r: 10
+    fill: darkblue
+    stroke: black
+    stroke-width: 2
+  text:
+    fill: white
+    font-size: 10
+    font-weight: bold
+
+
+  
+  
+  
