@@ -1,8 +1,7 @@
-# working-QC-Demo-with-Numpy
+# Quantum Computing with NumPy
 A naive way of Simulating a Fake Quantum Computer(Note: This is NOT a Quantum Computer code) using Numpy
 
-# Quantum Computing with NumPy
-
+<header>Project structure</header>
 <pre>
 .
 ├── dev
